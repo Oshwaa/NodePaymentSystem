@@ -6,8 +6,8 @@
 #include <ESP8266WebServer.h>
 
 const char* ssid = "AAAAAAAAAAAAA!!!!!!!!!!!!!!!";
-const char* password = "aslan555@";
-const char* serverUrl = "http://192.168.254.109/phpprograms/datatest.php"; //php file location (local or online)
+const char* password = "**************************";
+const char* serverUrl = "*****"; //php file location (local or online)
 
 constexpr uint8_t RST_PIN = D3;    
 constexpr uint8_t SS_PIN = D4;
